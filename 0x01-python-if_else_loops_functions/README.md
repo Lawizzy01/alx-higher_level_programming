@@ -1,6 +1,5 @@
-### Python loops
-Contains tasks on:
+### 0x01-python-if_else_loops_functions
+Contains tasks on python loops such as:
 - If_else loop
-- For loop
-- While loop
+- For loop; and
 - Functions
